@@ -186,6 +186,9 @@ span{
     .bg{
         margin-left: 40px;
     }
+    .grid-container{
+        margin: 10px;
+    }
 }
 @media(max-width:1200px){
     .bg{
